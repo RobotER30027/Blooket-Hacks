@@ -55,7 +55,7 @@ document.body.appendChild(overlay);
 const menu=document.createElement('div');
 menu.className='main-menu';
 menu.innerHTML=`
-  <h1>🎮 Blooket Hacks</h1>
+  <h1>Blooket Hacks</h1>
   <button class="menu-close">Close</button>
 `;
 document.body.appendChild(menu);
